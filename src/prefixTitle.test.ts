@@ -1,4 +1,3 @@
-import { expect, test } from 'vitest'
 import { prefixTitle } from './prefixTitle.js'
 
 test('タイトルがプレフィックスで始まること', () => {
